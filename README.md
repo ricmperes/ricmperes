@@ -1,6 +1,6 @@
 ## Ricardo Peres
 
-:email:: rperes@physik.uzh.ch
+:email:: r.motaperes@imperial.ac.uk
 
 :globe_with_meridians:: Check out my academic page [here](https://ricmperes.github.io/).
 
